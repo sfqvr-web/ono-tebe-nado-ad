@@ -27,6 +27,9 @@ blockquote {
 
 a {
   color: inherit;
+  display: block;
+  width: 148px;
+  height: 105px;
 }
 
 img {
